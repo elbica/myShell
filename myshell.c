@@ -13,7 +13,7 @@
 
 #define PARSER " \t\r\n" 
 
-//최근에 입력된 10개의 명령어들을 history로 관리, 환형 큐 구조
+//최근에 입력된 10개의 명령어들을 history로 관리, 환형 큐 구조.change
 char* history[11];
 int historyFront = 0, historyRear = 0, historySize = 0;
 
