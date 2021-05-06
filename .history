@@ -1,0 +1,27 @@
+ls
+asdf
+erdf
+history
+ls
+ls -l
+ls -a
+cd myshell
+cd ../
+ls
+history
+quit
+ls
+cd ../
+ls
+cd 12191704_shell
+ls
+cd
+cd ./
+history
+quit
+ls
+ls -al
+ls -al &
+ls
+ls -al &
+ls -al
